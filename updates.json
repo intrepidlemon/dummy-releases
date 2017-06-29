@@ -1,7 +1,7 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/darwin-x64-prod-v1.0.1/release.json",
-    "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/darwin-x64-prod-v1.0.1/electron-dummy-1.0.1.dmg",
-    "version": "1.0.1"
+    "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/darwin-x64-prod-v1.0.2/release.json",
+    "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/darwin-x64-prod-v1.0.2/electron-dummy-1.0.2.dmg",
+    "version": "1.0.2"
   }
 }
