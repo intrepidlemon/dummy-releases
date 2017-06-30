@@ -10,8 +10,8 @@
     "version": "1.0.12"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.4/electron-dummy-1.0.4-x86_64.AppImage",
-    "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.4/electron-dummy-1.0.4-x86_64.AppImage",
-    "version": "1.0.4"
+    "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.5/electron-dummy-1.0.5-x86_64.AppImage",
+    "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.5/electron-dummy-1.0.5-x86_64.AppImage",
+    "version": "1.0.5"
   }
 }
