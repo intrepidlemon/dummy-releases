@@ -8,5 +8,10 @@
     "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/win32-x64-prod-v1.0.12",
     "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/win32-x64-prod-v1.0.12/electron-dummy.Setup.1.0.12.exe",
     "version": "1.0.12"
+  },
+  "linux-x64-prod": {
+    "update": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.4/electron-dummy-1.0.4-x86_64.AppImage",
+    "install": "https://github.com/intrepidlemon/dummy-releases/releases/download/linux-x64-prod-v1.0.4/electron-dummy-1.0.4-x86_64.AppImage",
+    "version": "1.0.4"
   }
 }
